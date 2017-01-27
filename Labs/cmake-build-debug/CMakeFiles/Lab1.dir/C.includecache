@@ -6,6 +6,14 @@
 
 #IncludeRegexTransform: 
 
+/Users/macbookpro/Documents/College/Fourth Year/System software/SystemSoftware/Labs/Lab1/areaOfCirlce.c
+stdio.h
+-
+areaOfCirlce.h
+/Users/macbookpro/Documents/College/Fourth Year/System software/SystemSoftware/Labs/Lab1/areaOfCirlce.h
+
+/Users/macbookpro/Documents/College/Fourth Year/System software/SystemSoftware/Labs/Lab1/areaOfCirlce.h
+
 /Users/macbookpro/Documents/College/Fourth Year/System software/SystemSoftware/Labs/Lab1/areaOfRectangle.c
 stdio.h
 -
@@ -17,4 +25,6 @@ stdio.h
 -
 areaOfRectangle.h
 /Users/macbookpro/Documents/College/Fourth Year/System software/SystemSoftware/Labs/Lab1/areaOfRectangle.h
+areaOfCirlce.h
+/Users/macbookpro/Documents/College/Fourth Year/System software/SystemSoftware/Labs/Lab1/areaOfCirlce.h
 

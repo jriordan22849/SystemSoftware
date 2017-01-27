@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/macbookpro/Documents/College/Fourth Year/System software/SystemSoftware/Labs/Lab1/areaOfCirlce.c">
+			<Option target="Lab1"/>
+		</Unit>
+		<Unit filename="/Users/macbookpro/Documents/College/Fourth Year/System software/SystemSoftware/Labs/Lab1/areaOfCirlce.h">
+			<Option target="Lab1"/>
+		</Unit>
 		<Unit filename="/Users/macbookpro/Documents/College/Fourth Year/System software/SystemSoftware/Labs/Lab1/areaOfRectangle.c">
 			<Option target="Lab1"/>
 		</Unit>

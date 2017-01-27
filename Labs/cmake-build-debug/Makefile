@@ -123,6 +123,33 @@ Lab1/fast:
 	$(MAKE) -f CMakeFiles/Lab1.dir/build.make CMakeFiles/Lab1.dir/build
 .PHONY : Lab1/fast
 
+Lab1/areaOfCirlce.o: Lab1/areaOfCirlce.c.o
+
+.PHONY : Lab1/areaOfCirlce.o
+
+# target to build an object file
+Lab1/areaOfCirlce.c.o:
+	$(MAKE) -f CMakeFiles/Lab1.dir/build.make CMakeFiles/Lab1.dir/Lab1/areaOfCirlce.c.o
+.PHONY : Lab1/areaOfCirlce.c.o
+
+Lab1/areaOfCirlce.i: Lab1/areaOfCirlce.c.i
+
+.PHONY : Lab1/areaOfCirlce.i
+
+# target to preprocess a source file
+Lab1/areaOfCirlce.c.i:
+	$(MAKE) -f CMakeFiles/Lab1.dir/build.make CMakeFiles/Lab1.dir/Lab1/areaOfCirlce.c.i
+.PHONY : Lab1/areaOfCirlce.c.i
+
+Lab1/areaOfCirlce.s: Lab1/areaOfCirlce.c.s
+
+.PHONY : Lab1/areaOfCirlce.s
+
+# target to generate assembly for a file
+Lab1/areaOfCirlce.c.s:
+	$(MAKE) -f CMakeFiles/Lab1.dir/build.make CMakeFiles/Lab1.dir/Lab1/areaOfCirlce.c.s
+.PHONY : Lab1/areaOfCirlce.c.s
+
 Lab1/areaOfRectangle.o: Lab1/areaOfRectangle.c.o
 
 .PHONY : Lab1/areaOfRectangle.o
@@ -186,6 +213,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Lab1"
+	@echo "... Lab1/areaOfCirlce.o"
+	@echo "... Lab1/areaOfCirlce.i"
+	@echo "... Lab1/areaOfCirlce.s"
 	@echo "... Lab1/areaOfRectangle.o"
 	@echo "... Lab1/areaOfRectangle.i"
 	@echo "... Lab1/areaOfRectangle.s"

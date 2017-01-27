@@ -4,9 +4,13 @@
 
 #include <stdio.h>
 #include "areaOfRectangle.h"
+#include "areaOfCirlce.h"
 
 int main(int argc, char **argv) {
-    int s1, s2;
+    int num, num2;
+    sscanf(argv[2],"%d",&num);
+    sscanf(argv[3],"%d",&num2);
 
-    areaOfRectangle(8,9);
+    areaOfRectangle(num,num2);
+    //areaOfCircle(8,9);
 }
