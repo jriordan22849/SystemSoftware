@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/macbookpro/Documents/College/Fourth Year/System software/SystemSoftware/Labs/Lab1/areaOfRectangle.c
+stdio.h
+-
+
+/Users/macbookpro/Documents/College/Fourth Year/System software/SystemSoftware/Labs/Lab1/areaOfRectangle.h
+
+/Users/macbookpro/Documents/College/Fourth Year/System software/SystemSoftware/Labs/Lab1/main.c
+stdio.h
+-
+areaOfRectangle.h
+/Users/macbookpro/Documents/College/Fourth Year/System software/SystemSoftware/Labs/Lab1/areaOfRectangle.h
+
