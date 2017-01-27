@@ -23,6 +23,10 @@ stdio.h
 /Users/macbookpro/Documents/College/Fourth Year/System software/SystemSoftware/Labs/Lab1/main.c
 stdio.h
 -
+stdlib.h
+-
+string.h
+-
 areaOfRectangle.h
 /Users/macbookpro/Documents/College/Fourth Year/System software/SystemSoftware/Labs/Lab1/areaOfRectangle.h
 areaOfCirlce.h
