@@ -3,13 +3,13 @@
 //
 
 #include "areaOfSquare.h"
-#include <areaOfRectangle.h>
+#include "areaOfRectangle.h"
 #include <stdio.h>
 
-int areaOfSquare(int lengtj) {
+int areaOfSquare(int length) {
     int area;
 
-    area = areaOfRectangle(lenght,length);
+    area = areaOfRectangle(length,length);
 
     return area;
 }
