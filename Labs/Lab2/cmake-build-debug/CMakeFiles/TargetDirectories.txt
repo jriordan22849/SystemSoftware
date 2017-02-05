@@ -1,0 +1,3 @@
+/Users/macbookpro/Documents/College/Fourth Year/System software/SystemSoftware/Labs/Lab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/macbookpro/Documents/College/Fourth Year/System software/SystemSoftware/Labs/Lab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/macbookpro/Documents/College/Fourth Year/System software/SystemSoftware/Labs/Lab2/cmake-build-debug/CMakeFiles/Lab2.dir
