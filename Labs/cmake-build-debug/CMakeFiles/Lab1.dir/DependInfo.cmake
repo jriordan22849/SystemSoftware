@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/macbookpro/Documents/College/Fourth Year/System software/SystemSoftware/Labs/Lab1/areaOfCirlce.c" "/Users/macbookpro/Documents/College/Fourth Year/System software/SystemSoftware/Labs/cmake-build-debug/CMakeFiles/Lab1.dir/Lab1/areaOfCirlce.c.o"
-  "/Users/macbookpro/Documents/College/Fourth Year/System software/SystemSoftware/Labs/Lab1/areaOfRectangle.c" "/Users/macbookpro/Documents/College/Fourth Year/System software/SystemSoftware/Labs/cmake-build-debug/CMakeFiles/Lab1.dir/Lab1/areaOfRectangle.c.o"
-  "/Users/macbookpro/Documents/College/Fourth Year/System software/SystemSoftware/Labs/Lab1/main.c" "/Users/macbookpro/Documents/College/Fourth Year/System software/SystemSoftware/Labs/cmake-build-debug/CMakeFiles/Lab1.dir/Lab1/main.c.o"
+  "/Users/macbookpro/Documents/College/Fourth_Year/System software/SystemSoftware/Labs/Lab1/areaOfCirlce.c" "/Users/macbookpro/Documents/College/Fourth_Year/System software/SystemSoftware/Labs/cmake-build-debug/CMakeFiles/Lab1.dir/Lab1/areaOfCirlce.c.o"
+  "/Users/macbookpro/Documents/College/Fourth_Year/System software/SystemSoftware/Labs/Lab1/areaOfRectangle.c" "/Users/macbookpro/Documents/College/Fourth_Year/System software/SystemSoftware/Labs/cmake-build-debug/CMakeFiles/Lab1.dir/Lab1/areaOfRectangle.c.o"
+  "/Users/macbookpro/Documents/College/Fourth_Year/System software/SystemSoftware/Labs/Lab1/main.c" "/Users/macbookpro/Documents/College/Fourth_Year/System software/SystemSoftware/Labs/cmake-build-debug/CMakeFiles/Lab1.dir/Lab1/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

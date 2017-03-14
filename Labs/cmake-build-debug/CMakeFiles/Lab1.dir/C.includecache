@@ -6,21 +6,21 @@
 
 #IncludeRegexTransform: 
 
-/Users/macbookpro/Documents/College/Fourth Year/System software/SystemSoftware/Labs/Lab1/areaOfCirlce.c
+/Users/macbookpro/Documents/College/Fourth_Year/System software/SystemSoftware/Labs/Lab1/areaOfCirlce.c
 stdio.h
 -
 areaOfCirlce.h
-/Users/macbookpro/Documents/College/Fourth Year/System software/SystemSoftware/Labs/Lab1/areaOfCirlce.h
+/Users/macbookpro/Documents/College/Fourth_Year/System software/SystemSoftware/Labs/Lab1/areaOfCirlce.h
 
-/Users/macbookpro/Documents/College/Fourth Year/System software/SystemSoftware/Labs/Lab1/areaOfCirlce.h
+/Users/macbookpro/Documents/College/Fourth_Year/System software/SystemSoftware/Labs/Lab1/areaOfCirlce.h
 
-/Users/macbookpro/Documents/College/Fourth Year/System software/SystemSoftware/Labs/Lab1/areaOfRectangle.c
+/Users/macbookpro/Documents/College/Fourth_Year/System software/SystemSoftware/Labs/Lab1/areaOfRectangle.c
 stdio.h
 -
 
-/Users/macbookpro/Documents/College/Fourth Year/System software/SystemSoftware/Labs/Lab1/areaOfRectangle.h
+/Users/macbookpro/Documents/College/Fourth_Year/System software/SystemSoftware/Labs/Lab1/areaOfRectangle.h
 
-/Users/macbookpro/Documents/College/Fourth Year/System software/SystemSoftware/Labs/Lab1/main.c
+/Users/macbookpro/Documents/College/Fourth_Year/System software/SystemSoftware/Labs/Lab1/main.c
 stdio.h
 -
 stdlib.h
@@ -28,7 +28,7 @@ stdlib.h
 string.h
 -
 areaOfRectangle.h
-/Users/macbookpro/Documents/College/Fourth Year/System software/SystemSoftware/Labs/Lab1/areaOfRectangle.h
+/Users/macbookpro/Documents/College/Fourth_Year/System software/SystemSoftware/Labs/Lab1/areaOfRectangle.h
 areaOfCirlce.h
-/Users/macbookpro/Documents/College/Fourth Year/System software/SystemSoftware/Labs/Lab1/areaOfCirlce.h
+/Users/macbookpro/Documents/College/Fourth_Year/System software/SystemSoftware/Labs/Lab1/areaOfCirlce.h
 
